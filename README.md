@@ -1,9 +1,4 @@
 # data-structure
 
-
-
-shayan khan shayan khan shayan khan shayan khan shayan khan 
-
-
-
-data structure with shayan khan
+basic data structure code 
+insertion,deletion,searching etc
